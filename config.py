@@ -1,2 +1,2 @@
-token = "8098939703:AAHcmH5vSw1WNWIz0t5kW-ik4tHAOo5ZOgU"
-DATABASE = "SCHEDULE.DB"
+token = ""
+DATABASE = ""
